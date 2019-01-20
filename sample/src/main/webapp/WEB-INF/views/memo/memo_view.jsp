@@ -8,7 +8,7 @@ String context = request.getContextPath();
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>홈 페이지인데 커밋안할거에요!</title>
+<title>홈 페이지</title>
 
 <script type="text/javascript"  src="http://code.jquery.com/jquery-1.12.4.js"></script>
 <script type="text/javascript">
