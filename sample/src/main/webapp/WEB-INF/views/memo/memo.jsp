@@ -8,7 +8,7 @@ String context = request.getContextPath();
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>홈 페이지 깃허브 변경확인</title>
+<title>0000000000000000000000000000000</title>
 <script type="text/javascript"  src="http://code.jquery.com/jquery-1.12.4.js"></script>
 <script type="text/javascript">
 $(document).ready( function() { //onload 이벤트
