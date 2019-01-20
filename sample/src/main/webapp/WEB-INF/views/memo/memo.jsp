@@ -59,6 +59,7 @@ function memo_view( num ) {
 		
 		<!-- main contents 영역 -->
 		<div id="main">
+			<h2>한줄메모장 바뀜!!!!!!!!!!!!!!!!!!!!</h2>
 			<h2>한줄메모장 안바뀜!!!!</h2>
 			<div id="memoInput">
 				<form name="form1" id="form1" method="post">
